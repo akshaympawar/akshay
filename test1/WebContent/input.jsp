@@ -8,6 +8,9 @@
 </head>
 <body>
 <h2>hi avengers</h2>
+<form action="db" >
+name:<input type="text" value="name" />
+</form>
 
 </body>
 </html>
